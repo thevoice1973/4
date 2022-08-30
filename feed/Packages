@@ -1,11 +1,11 @@
-Package: enigma2-plugin-weblinks-eliesat-feed-py2.0
+Package: enigma2-plugin-weblinks-feed-eliesat-py2.0
 Version: eliesat
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: 9705f148b9dc5dc9f369efe92e875751
+MD5Sum: 670cbc06a3412467aeb4cbd131dd7b96
 Size: 1060
-Filename: enigma2-plugin-weblinks-eliesat-feed-py2.0_eliesat_all.ipk
+Filename: enigma2-plugin-weblinks-feed-eliesat-py2.0_eliesat_all.ipk
 Description: eliesat feed python 2
 Maintainer: eliesat
 Priority: optional
@@ -15,15 +15,15 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-weblinks-eliesat-feed-py3.0
+Package: enigma2-plugin-weblinks-feed-eliesat-py3.0
 Version: eliesat
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: b8d41357ee1502c58a7e62c999dee3f5
+MD5Sum: a9c36720fd12f711fa7b0deb6c9fa578
 Size: 1060
-Filename: enigma2-plugin-weblinks-eliesat-feed-py3.0_eliesat_all.ipk
-Description: eliesat feed python 3
+Filename: enigma2-plugin-weblinks-feed-eliesat-py3.0_eliesat_all.ipk
+Description: eliesat feed python 3.0
 Maintainer: eliesat
 Priority: optional
 Source: none
@@ -32,14 +32,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-weblinks-eliesat-feed-py3.1
+Package: enigma2-plugin-weblinks-feed-eliesat-py3.1
 Version: eliesat
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: 11890aede3b559a41e64ac9318624b40
-Size: 1060
-Filename: enigma2-plugin-weblinks-eliesat-feed-py3.1_eliesat_all.ipk
+MD5Sum: 9e0ac33b41273f3f14aff12d2674ac4d
+Size: 1058
+Filename: enigma2-plugin-weblinks-feed-eliesat-py3.1_eliesat_all.ipk
 Description: eliesat feed python 3.1
 Maintainer: eliesat
 Priority: optional
